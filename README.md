@@ -1,9 +1,9 @@
 # 体验
 前台:
-http://cake.twopair.cn/#/desk/home
+http://cake.twopair.cn/
 
 后台:
-http://admin.cake.twopair.cn/#/users
+http://admin.cake.twopair.cn/
 
 # 目录架构
 ```java
